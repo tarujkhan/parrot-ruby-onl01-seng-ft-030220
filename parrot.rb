@@ -3,5 +3,5 @@
 
 def parrot(action="Squawk")
   puts parrot
-  return parrot
+  parrot
 end
