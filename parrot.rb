@@ -1,7 +1,7 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot(action="Squawk")
+def parrot(action="Squawk!")
   puts action 
   action 
 end
